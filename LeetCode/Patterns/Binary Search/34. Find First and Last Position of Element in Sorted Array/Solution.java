@@ -8,17 +8,23 @@ class Solution {
             if(nums[mid]>target){
                 high=mid-1;
             }
-            if(nums[mid]<target){
+            else if(nums[mid]<target){
                 low=low+1;
             }
-            if (nums[mid] == target) {
-            int l = mid, r = mid;
-            while (l > 0 && nums[l - 1] == target) l--;
-            while (r < nums.length - 1 && nums[r + 1] == target) r++;
-            a[0] = l;
-            a[1] = r;
-            break;
-        }
+            else if(nums[mid]==target){
+                if(nums[mid+1]==target) high=mid+1;
+                else high=mid;
+                a[1]=high;
+                while(low<=high){
+                    if(nums[low]==target){
+                        a[0]=low;
+                        return a;
+                    }
+                    else{
+                        low++;
+                    }
+                }
+            }
         }
         return a;
     }
