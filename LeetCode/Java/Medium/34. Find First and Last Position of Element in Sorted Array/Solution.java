@@ -21,7 +21,7 @@ class Solution {
                         return a;
                     }
                     else{
-                        low;
+                        low=low+1;
                     }
                 }
             }
