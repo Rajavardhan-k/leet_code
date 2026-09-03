@@ -3,7 +3,7 @@
 Track your progress on the Grind 75 coding interview preparation list.
 
 ## Progress
-- **Completed:** 1 / 75 (1.3%)
+- **Completed:** 2 / 75 (2.7%)
 
 ---
 
@@ -13,7 +13,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 - [x] [Two Sum](./Java/Easy/1. Two Sum/)
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Contains Duplicate
-- [ ] Product of Array Except Self
+- [x] [Product of Array Except Self](./Java/Medium/238. Product of Array Except Self/)
 - [ ] Maximum Subarray
 - [ ] Maximum Product Subarray
 - [ ] Find Minimum in Rotated Sorted Array
