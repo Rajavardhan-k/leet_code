@@ -15,6 +15,7 @@ class Solution {
             }
             else return false;
         }
+        if(arr1[arr1.length-1]!=arr2[arr2.length-1]) return false;
         while(j<arr2.length){
             if(arr2[j]!=arr2[j-1]){
                 return false;
