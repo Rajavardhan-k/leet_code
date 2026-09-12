@@ -15,6 +15,9 @@ class Solution {
             }
             else return false;
         }
+        while(j<arr2.length){
+            return false;
+        }
         return true;
     }
 }
