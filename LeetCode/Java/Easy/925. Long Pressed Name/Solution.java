@@ -16,6 +16,7 @@ class Solution {
             else return false;
         }
         while(j<arr2.length){
+            if()
             return false;
         }
         return true;
