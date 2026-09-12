@@ -16,8 +16,9 @@ class Solution {
             else return false;
         }
         while(j<arr2.length){
-            if()
-            return false;
+            if(arr2[j]!=arr2[j-1]){
+                return false;
+            }
         }
         return true;
     }
