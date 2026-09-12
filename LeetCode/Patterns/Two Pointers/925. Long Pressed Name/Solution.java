@@ -20,6 +20,7 @@ class Solution {
                 return false;
             }
             j++;
+            
         }
         return true;
     }
