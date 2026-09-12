@@ -19,6 +19,7 @@ class Solution {
             if(arr2[j]!=arr2[j-1]){
                 return false;
             }
+            j++;
         }
         return true;
     }
