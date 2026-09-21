@@ -6,7 +6,7 @@ class Solution {
             diff=0;
         }
         else {
-            diff=nums[nums.length-1]-nums[nums.length-2];
+            diff=nums[nums.length-1]-nums[nums.length-k];
         }
         return diff;
     }
