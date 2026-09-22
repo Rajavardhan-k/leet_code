@@ -5,7 +5,8 @@ class Solution {
         while(j<nums.length){
             if(nums[j]==nums[i]){
                 j++;
-            } else {
+            }
+            else {
                 i++;
                 int temp=nums[i];
                 nums[i]=nums[j];
