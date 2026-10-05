@@ -1,6 +1,6 @@
 class Solution {
     public int compress(char[] chars) {
-        int i = 0, j = 0, count = 0;
+        int i=0,j=0,count=0;
         String ans = "";
         int n = chars.length;
         while (j < n) {
