@@ -8,7 +8,7 @@ class Solution {
                     newnums[i]=Math.min(nums[2*i], nums[2*i+1]);
                 }
                 else {
-                    newnums[i]=Math.max(nums[2 * i], nums[2 * i + 1]);
+                    newnums[i]=Math.max(nums[2*i],nums[2*i+1]);
                 }
             }
             n=n/2;
