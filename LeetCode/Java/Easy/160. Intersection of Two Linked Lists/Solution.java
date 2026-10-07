@@ -15,13 +15,13 @@ public class Solution {
         ListNode temp2=headB;
         while(temp1!=temp2){
             if(temp1==null){
-                temp1=headA;
+                temp1=headB;
             }
             else{
                 temp1=temp1.next;
             }
             if(temp2==null){
-                temp2=headB;
+                temp2=headA;
             }
             else{
                 temp2=temp2.next;
