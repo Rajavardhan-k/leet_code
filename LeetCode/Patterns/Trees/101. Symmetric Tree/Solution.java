@@ -14,14 +14,14 @@
  * }
  */
 class Solution {
-    void post(TreeNode root,List<Integer> al1){
+    void mpre(TreeNode root,List<Integer> al1){
         if(root==null){
             al1.add(null);
             return;
         }
         al1.add(root.val);
-        post(root.right,al1);
-        post(root.left,al1);
+        mpre(root.right,al1);
+        mpre(root.left,al1);
     }
     void pre(TreeNode root,List<Integer> al2){
         if(root==null){
@@ -35,7 +35,7 @@ class Solution {
     public boolean isSymmetric(TreeNode root) {
         List<Integer> al1=new ArrayList<>();
         List<Integer> al2=new ArrayList<>();
-        post(root,al1);
+        mpre(root,al1);
         pre(root,al2);
         for(int i=0;i<al1.size();i++){
             if(al1.get(i)!=al2.get(i)) return false;
