@@ -16,7 +16,7 @@
 class Solution {
     void mpre(TreeNode root,List<Integer> al1){
         if(root==null){
-            al1.add(null);
+            al1.add(-101);
             return;
         }
         al1.add(root.val);
@@ -25,7 +25,7 @@ class Solution {
     }
     void pre(TreeNode root,List<Integer> al2){
         if(root==null){
-            al2.add(null);
+            al2.add(-101);
             return;
         }
         al2.add(root.val);
