@@ -1,6 +1,6 @@
 # 📝 680. Valid Palindrome II (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/valid-palindrome-ii/)
+🔗 [Problem Link](https://leetcode.com/problems/valid-palindrome-ii/?envType=problem-list-v2&envId=two-pointers)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
