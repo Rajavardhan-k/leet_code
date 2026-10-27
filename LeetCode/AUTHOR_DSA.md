@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 8 / 238 (3.4%)
+- **Completed:** 9 / 238 (3.8%)
 
 ---
 
@@ -79,7 +79,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Concatenation of Array
 
 ### 📂 MODULE  3.3: INPLACE ARRAY MODIFICATION
-- [ ] Move Zeroes
+- [x] [Move Zeroes](./Java/Easy/283. Move Zeroes/)
 - [x] [Remove Duplicates from Sorted Array](./Java/Easy/26. Remove Duplicates from Sorted Array/)
 - [x] [Remove Element](./Java/Easy/27. Remove Element/)
 - [ ] Remove Duplicates II
