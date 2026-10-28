@@ -3,7 +3,7 @@
 Track your progress on the Striver's SDE Sheet top interview problems.
 
 ## Progress
-- **Completed:** 12 / 76 (15.8%)
+- **Completed:** 13 / 76 (17.1%)
 
 ---
 
@@ -11,7 +11,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 
 ### 📂 Arrays & Matrix
 - [ ] Set Matrix Zeroes
-- [ ] Pascal's Triangle
+- [x] [Pascal's Triangle](./Java/Easy/118. Pascals Triangle/)
 - [ ] Next Permutation
 - [ ] Maximum Subarray
 - [x] [Sort Colors](./Java/Medium/75. Sort Colors/)
