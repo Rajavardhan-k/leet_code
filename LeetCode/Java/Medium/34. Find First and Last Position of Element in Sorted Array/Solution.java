@@ -15,7 +15,6 @@ class Solution {
                 high = mid - 1;
             }
         }
-
         return ans;
     }
     private int last(int[] nums, int target) {
