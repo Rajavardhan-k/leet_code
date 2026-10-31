@@ -7,6 +7,8 @@ class Solution {
         return down+right;
     }
     public int uniquePaths(int m, int n) {
+        int memo[]=new int[nums.length+1];
+        Arrays.fill(memo,-1);
         return fun(n,m,0,0);
     }
 }
