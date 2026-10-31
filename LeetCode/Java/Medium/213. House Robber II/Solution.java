@@ -1,6 +1,6 @@
 class Solution {
     int fun(int nums[],int idx,int memo[]){
-        if(idx>=nums.length) return 0;
+        if(idx>=nums.length-1) return 0;
         if(memo[idx]!=-1) return memo[idx];
         memo[idx]=nums[idx]+Math.max(fun(nums,idx+2,memo),fun(nums,idx+3,memo));
         return memo[idx];
