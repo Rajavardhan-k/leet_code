@@ -8,7 +8,7 @@ class Solution {
     public int rob(int[] nums) {
         int memo[]=new int[nums.length+1];
         Arrays.fill(memo,-1);
-        if(nums.length==3){
+        if(nums.length<=3){
             Arrays.sort(nums);
             return nums[nums.length-1];
         }
