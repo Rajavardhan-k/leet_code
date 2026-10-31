@@ -4,6 +4,6 @@ class Solution {
         return nums[idx]+Math.max(fun(nums,idx+2),fun(nums,idx+3));
     }
     public int rob(int[] nums) {
-        return fun(nums,0);
+        return Math.max(fun(nums,0),fun(nums,1));
     }
 }
