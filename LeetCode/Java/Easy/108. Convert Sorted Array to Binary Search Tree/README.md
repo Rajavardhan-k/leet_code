@@ -1,6 +1,6 @@
 # 📝 108. Convert Sorted Array to Binary Search Tree (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/?envType=problem-list-v2&envId=tree)
+🔗 [Problem Link](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array, Divide and Conquer, Tree, Binary Search Tree, Binary Tree
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 44.4 MB
 
 ---
 
