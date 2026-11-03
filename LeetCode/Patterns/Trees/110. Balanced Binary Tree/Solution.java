@@ -19,7 +19,7 @@ class Solution {
         int l=height(root.left);
         int r=height(root.right);
         if(Math.abs(l-r)>1) return false;
-        return true;
+        return isBalanced(root.left) && isBalanced(root.right);
     }
     int height(TreeNode root){
         if(root==null) return 0;
