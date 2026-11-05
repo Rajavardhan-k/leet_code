@@ -1,6 +1,6 @@
 # 📝 79. Word Search (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/word-search/?envType=problem-list-v2&envId=backtracking)
+🔗 [Problem Link](https://leetcode.com/problems/word-search/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
