@@ -1,6 +1,6 @@
 # 📝 22. Generate Parentheses (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/generate-parentheses/?envType=problem-list-v2&envId=backtracking)
+🔗 [Problem Link](https://leetcode.com/problems/generate-parentheses/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 String, Dynamic Programming, Backtracking, Bracket Sequences
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 2 ms
+- **Memory:** 44.2 MB
 
 ---
 
