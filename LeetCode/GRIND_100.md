@@ -3,7 +3,7 @@
 Track your progress on the Grind 100 coding interview preparation list.
 
 ## Progress
-- **Completed:** 27 / 100 (27.0%)
+- **Completed:** 28 / 100 (28.0%)
 
 ---
 
@@ -84,7 +84,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [x] [Find First and Last Position of Element in Sorted Array](./Java/Medium/34. Find First and Last Position of Element in Sorted Array/)
 
 ### 📂 Graph & Trie
-- [ ] Number of Islands
+- [x] [Number of Islands](./Java/Medium/200. Number of Islands/)
 - [ ] Course Schedule
 - [ ] Implement Trie (Prefix Tree)
 
