@@ -19,7 +19,7 @@ Given an  `m x n`  2D binary grid  `grid`  which represents a map of  `'1'` s (l
 
 An  **island**  is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 ```
 Input: grid = [
