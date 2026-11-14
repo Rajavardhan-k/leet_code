@@ -24,7 +24,7 @@ You want to build an  **expression**  out of nums by adding one of the symbols  
 
 Return the number of different  **expressions**  that you can build, which evaluates to  `target` .
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 ```
 Input: nums = [1,1,1,1,1], target = 3
