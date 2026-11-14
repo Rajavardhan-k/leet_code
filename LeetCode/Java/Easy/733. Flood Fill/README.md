@@ -8,8 +8,8 @@
 Array, Depth-First Search, Breadth-First Search, Matrix
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 1 ms
+- **Memory:** 46.2 MB
 
 ---
 
@@ -30,7 +30,7 @@ To perform a  **flood fill** :
 
 Return the  **modified**  image after performing the flood fill.
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 **Input:**  image = [[1,1,1],[1,1,0],[1,0,1]], sr = 1, sc = 1, color = 2
 
